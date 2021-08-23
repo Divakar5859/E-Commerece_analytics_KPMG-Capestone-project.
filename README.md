@@ -2,7 +2,7 @@
 - 👀 I’m interested in Statistical analysis
 - 🌱 I’ma a certifies data analyst
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me @ divakarkanish6869@gmail.com 
+- 📫 How to reach me @ divakarkanish5859@gmail.com 
 
 <!---
 Divakar5859/Divakar5859 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
